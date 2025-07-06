@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Tomato is your go-to food delivery app offering fast, fresh, and affordable meals. Order anytime, anywhere with just a few taps.Tomato brings the best bites from your neighborhood straight to your door. Fast, fresh, and full of flavor—order now and taste the difference.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
@@ -16,12 +16,14 @@ const Footer = () => {
             </div>
         </div>
         <div className="footer-content-center">
-            <h2>COMPANY</h2>
+            <h2>TOMATO</h2>
             <ul>
-                <li>Home</li>
-                <li>About us</li>
+                <li>Who We Are</li>
+                <li>Blog</li>
                 <li>Delivery</li>
-                <li>Privacy policy</li>
+                <li>Investors Relations</li>
+                <li>Work With Us</li>
+                <li>Report Fraud</li>
             </ul>
         </div>
         <div className="footer-content-right">
@@ -33,7 +35,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 © Tomato.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2025 © Tomato.com - All Right Reserved.</p>
     </div>
   )
 }
