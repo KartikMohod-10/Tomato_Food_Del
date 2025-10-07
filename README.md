@@ -95,7 +95,7 @@ Use test card details from Stripe Docs for testing in development.
  ADMIN PAGE :-![image](https://github.com/user-attachments/assets/e2bf922d-4e7d-421c-a905-27808013ae3a)
  
 🖼️ Demo
- LIVE DEMO :-  FRONTEND :- https://tomato-food-del-admin-8g6k.onrender.com
+ LIVE DEMO :-  FRONTEND :- https://tomato-food-del-frontend-zzaw.onrender.com/
                ADMIN :- https://tomato-food-del-admin-8g6k.onrender.com
 
 📦 Deployment
